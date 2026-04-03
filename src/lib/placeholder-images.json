@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "Professional Power Drill",
+      "imageUrl": "https://picsum.photos/seed/drill/600/400",
+      "imageHint": "power drill"
+    },
+    {
+      "id": "2",
+      "description": "Heavy Duty Toolbox",
+      "imageUrl": "https://picsum.photos/seed/toolbox/600/400",
+      "imageHint": "toolbox"
+    },
+    {
+      "id": "3",
+      "description": "Premium Wrench Set",
+      "imageUrl": "https://picsum.photos/seed/wrench/600/400",
+      "imageHint": "wrench set"
+    },
+    {
+      "id": "4",
+      "description": "Industrial Angle Grinder",
+      "imageUrl": "https://picsum.photos/seed/grinder/600/400",
+      "imageHint": "angle grinder"
+    },
+    {
+      "id": "5",
+      "description": "Safety Helmet & Gear",
+      "imageUrl": "https://picsum.photos/seed/helmet/600/400",
+      "imageHint": "safety helmet"
+    },
+    {
+      "id": "6",
+      "description": "Durable Work Gloves",
+      "imageUrl": "https://picsum.photos/seed/gloves/600/400",
+      "imageHint": "work gloves"
+    }
+  ]
+}
